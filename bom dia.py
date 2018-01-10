@@ -1,0 +1,6 @@
+print("bom dia!")
+input("\nPress the enter key to continue")
+print("\nestou a escrever o meu primer program")
+input("\nPress the enter key to continue")
+print("\nSorte em Cascais!")
+input("\nPress the enter key to exit")
